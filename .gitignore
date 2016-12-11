@@ -1,3 +1,6 @@
+# Bulky RDA Files
+output/*.rda
+
 # History files
 .Rhistory
 .Rapp.history
